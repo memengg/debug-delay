@@ -1,8 +1,8 @@
-hargapack = 7500 -- HARGA PACK
-namapack = "valentines" -- NAMA PACK
-MinItemPack = 10 --APABILA JUMLAH ITEM YANG ADA DIDALAM iditempack LEBIH BESAR DARIPADA MinItemPack, MAKA BOTNYA MULAI DROP PACKNYA KE STORAGE!
-maxbuy = 2 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA GEMSNYA MASIH CUKUP!
-iditempack = {3402,5664}
+hargapack = 2000
+namapack = "world_lock"
+MinItemPack = 5
+maxbuy = 2
+iditempack = {242,3402, 5664}
 
 target_block = 185 -- TARGET MAX HARVEST (JML BLOCK DI TAS)
 target_seed = 60 -- TARGET MINIMAL SEED UNTUK DITANAM
