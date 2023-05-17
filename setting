@@ -6,10 +6,10 @@ iditempack = {242,3402, 5664}
 
 target_block = 185 -- TARGET MAX HARVEST (JML BLOCK DI TAS)
 target_seed = 60 -- TARGET MINIMAL SEED UNTUK DITANAM
-delayht = 100 -- DELAY HARVEST
-delayplant = 75 -- DELAY PLANT
-delaypnb = 185 -- DELAY PNB
-delayplace = 125 -- DELAY PLACE
+delayht = 120 -- DELAY HARVEST
+delayplant = 100 -- DELAY PLANT
+delaypnb = 190 -- DELAY PNB
+delayplace = 130 -- DELAY PLACE
 delayworld = 3000 -- DELAY MASUK DOOR
 delaydrop = 500 -- JEDA DROP PER ITEM
 delaytrash = 100
